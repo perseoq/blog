@@ -1,11 +1,10 @@
 ---
-title: railpack static paths
+title: Railpack: rutas estáticas
 date: 2026-11-05
 author: Rodrigo Quintanar
 ---
 
 
-# Railpack: rutas estáticas
 
 Una precisión importante: Railpack no ofrece una variable universal `ROOT_DIR` para todos los lenguajes. Algunas tecnologías tienen variables específicas y otras requieren configuración mediante `railpack.json`, `Staticfile` o un `Caddyfile`.
 
