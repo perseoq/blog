@@ -1,5 +1,5 @@
 ---
-title: Railpack: rutas estáticas
+title: "Railpack: rutas estáticas"
 date: 2026-11-05
 author: Rodrigo Quintanar
 ---
