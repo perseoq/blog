@@ -23,7 +23,7 @@ Una precisión importante: Railpack no ofrece una variable universal `ROOT_DIR` 
 
 Las rutas de CakePHP, Yii2, Drupal y WordPress son convenciones de sus proyectos, no valores automáticos garantizados por Railpack.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://railpack.com\&sz=32)
+![image](https://www.google.com/s2/favicons?domain=https://railpack.com\&sz=32)
 
 Railpack Docs
 
@@ -45,7 +45,7 @@ Railpack Docs
 
 Para las aplicaciones estáticas, `RAILPACK_STATIC_FILE_ROOT` sí está documentada. Para SSR, no debes configurar un document root estático: se utiliza el servidor de la aplicación.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://railpack.com\&sz=32)
+![image](https://www.google.com/s2/favicons?domain=https://railpack.com\&sz=32)
 
 Railpack Docs+2
 
@@ -67,7 +67,7 @@ RAILPACK_DJANGO_APP_NAME=myproject.wsgi
 
 No es una variable de document root.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://github.com\&sz=32)
+![image](https://www.google.com/s2/favicons?domain=https://github.com\&sz=32)
 
 GitHub
 
@@ -86,7 +86,7 @@ GitHub
 
 Railpack permite configurar estos proveedores, pero no publica una variable universal para establecer su document root.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://railpack.com\&sz=32)
+![image](https://www.google.com/s2/favicons?domain=https://railpack.com\&sz=32)
 
 Railpack Docs+1
 
