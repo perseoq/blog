@@ -13,3 +13,11 @@ plugins:
 # Paginación de la portada
 paginate: 5
 paginate_path: "/page:num/"
+
+# Las entradas usan el layout "post" automáticamente
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
